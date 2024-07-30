@@ -10,9 +10,6 @@ This project aims to predict medical expenses using demographic and lifestyle da
 - **notebooks/**: Contains Jupyter notebooks for data analysis and model building.
   - `insurance_data_notebook.ipynb`: Jupyter notebook with steps for data analysis, data cleaning, exploratory data analysis (EDA), and model implementation.
 
-- **models/**: Contains trained models.
-  - `linear_regression_model.pkl`: Serialized trained linear regression model.
-
 - **scripts/**: Contains Python scripts for various steps of the project.
   - `data_cleaning.py`: Script for data cleaning.
   - `model_training.py`: Script for training the model.
@@ -65,5 +62,10 @@ git clone https://github.com/yourusername/insurance-linear-regression.git
 ```bash
 cd insurance-linear-regression
 
-3. Run the Jupyter notebook or individual scripts for different stages of the project.
+3. Run the Jupyter notebook or individual scripts for different stages of the project.'
 
+### Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+### License
+This project is licensed under the MIT License.
