@@ -67,8 +67,3 @@ cd insurance-linear-regression
 
 3. Run the Jupyter notebook or individual scripts for different stages of the project.
 
-### Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-### License
-This project is licensed under the MIT License.
