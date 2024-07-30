@@ -60,9 +60,9 @@ git clone https://github.com/yourusername/insurance-linear-regression.git
 2. Navigate to the project directory:
 
 ```bash
-cd insurance-linear-regression
+cd insurance-linear-regression ```
 
-3. Run the Jupyter notebook or individual scripts for different stages of the project.```
+3. Run the Jupyter notebook or individual scripts for different stages of the project.
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
